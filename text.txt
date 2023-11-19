@@ -1,0 +1,2 @@
+the fetch API interface allow web browser to make HTTP
+requests to web server.
